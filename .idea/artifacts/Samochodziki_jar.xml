@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Samochodziki:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FruzynskiMateusz_jar</output-path>
+    <root id="archive" name="Samochodziki.jar">
+      <element id="module-output" name="Samochodziki" />
+    </root>
+  </artifact>
+</component>
